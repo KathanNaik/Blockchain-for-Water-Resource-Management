@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cores": "^0.8.5",
+    "elliptic": "^6.5.4",
+    "sqlite3": "^5.1.6"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
